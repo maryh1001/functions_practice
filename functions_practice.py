@@ -21,7 +21,6 @@ hello()
 pack("a","b","c")
 print(pack(1,2,3))
 eat_lunch([])
-eat_lunch(lunch)
 eat_lunch(["sandwich"])
 eat_lunch(["apple","banana","sandwich","cookie"])
     
